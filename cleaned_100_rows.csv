@@ -1,0 +1,82 @@
+order_id,order_date,product_name,quantity,unit_price,city,total_sales,month,order_status
+ORD-0001,2026-09-17,usb cable,8.0,12.0,zarqa,96.0,9.0,Valid
+ORD-0002,2026-07-16,keyboard,1.0,48.0,irbid,48.0,7.0,Valid
+ORD-0003,2026-03-18,keyboard,11.0,48.0,irbid,528.0,3.0,Valid
+ORD-0004,2026-01-01,webcam,6.0,89.0,zarqa,534.0,1.0,Valid
+ORD-0005,2026-07-03,mouse,5.0,19.0,irbid,95.0,7.0,Valid
+ORD-0006,2026-02-08,mouse,9.0,19.0,zarqa,171.0,2.0,Valid
+ORD-0007,2026-04-03,usb cable,12.0,12.0,zarqa,144.0,4.0,Valid
+ORD-0008,2026-04-05,keyboard,4.0,48.0,amman,192.0,4.0,Valid
+ORD-0009,2026-05-06,headphones,8.0,65.0,amman,520.0,5.0,Valid
+ORD-0012,2026-03-25,laptop,7.0,720.0,zarqa,5040.0,3.0,Valid
+ORD-0013,2026-05-17,usb cable,3.0,12.0,irbid,36.0,5.0,Valid
+ORD-0014,2026-08-25,laptop,4.0,720.0,irbid,2880.0,8.0,Valid
+ORD-0015,2026-02-28,laptop,10.0,720.0,zarqa,7200.0,2.0,Valid
+ORD-0016,2026-07-15,usb cable,1.0,12.0,amman,12.0,7.0,Valid
+ORD-0017,2026-07-20,monitor,3.0,210.0,irbid,630.0,7.0,Valid
+ORD-0019,2026-05-04,laptop,10.0,720.0,zarqa,7200.0,5.0,Valid
+ORD-0020,2026-01-08,headphones,4.0,65.0,zarqa,260.0,1.0,Valid
+ORD-0021,2026-08-21,keyboard,5.0,48.0,amman,240.0,8.0,Valid
+ORD-0022,2026-08-03,webcam,12.0,89.0,amman,1068.0,8.0,Valid
+ORD-0023,2026-08-07,usb cable,4.0,12.0,amman,48.0,8.0,Valid
+ORD-0025,2026-04-08,mouse,5.0,19.0,irbid,95.0,4.0,Valid
+ORD-0026,2026-01-10,keyboard,9.0,48.0,amman,432.0,1.0,Valid
+ORD-0028,2026-05-21,usb cable,7.0,12.0,zarqa,84.0,5.0,Valid
+ORD-0029,2026-08-09,headphones,9.0,65.0,irbid,585.0,8.0,Valid
+ORD-0030,2026-03-14,webcam,10.0,89.0,amman,890.0,3.0,Valid
+ORD-0031,2026-01-22,laptop,12.0,720.0,amman,8640.0,1.0,Valid
+ORD-0032,2026-05-06,usb cable,5.0,12.0,amman,60.0,5.0,Valid
+ORD-0034,2026-08-17,laptop,12.0,720.0,amman,8640.0,8.0,Valid
+ORD-0035,2026-05-01,monitor,7.0,210.0,zarqa,1470.0,5.0,Valid
+ORD-0036,2026-07-04,headphones,4.0,65.0,irbid,260.0,7.0,Valid
+ORD-0038,2026-02-25,mouse,7.0,19.0,zarqa,133.0,2.0,Valid
+ORD-0039,2026-09-09,laptop,7.0,720.0,amman,5040.0,9.0,Valid
+ORD-0040,2026-02-04,headphones,3.0,65.0,zarqa,195.0,2.0,Valid
+ORD-0042,2026-08-22,laptop,10.0,720.0,irbid,7200.0,8.0,Valid
+ORD-0043,2026-01-18,headphones,10.0,65.0,amman,650.0,1.0,Valid
+ORD-0044,2026-05-03,keyboard,12.0,48.0,amman,576.0,5.0,Valid
+ORD-0045,2026-02-24,mouse,11.0,19.0,irbid,209.0,2.0,Valid
+ORD-0046,2026-09-08,headphones,1.0,65.0,irbid,65.0,9.0,Valid
+ORD-0048,2026-08-08,webcam,8.0,89.0,irbid,712.0,8.0,Valid
+ORD-0049,2026-03-18,webcam,2.0,89.0,amman,178.0,3.0,Valid
+ORD-0050,2026-08-23,mouse,5.0,19.0,zarqa,95.0,8.0,Valid
+ORD-0051,2026-07-02,mouse,6.0,19.0,zarqa,114.0,7.0,Valid
+ORD-0053,2026-01-02,laptop,6.0,720.0,irbid,4320.0,1.0,Valid
+ORD-0054,2026-08-26,monitor,9.0,210.0,irbid,1890.0,8.0,Valid
+ORD-0055,2026-09-17,keyboard,9.0,48.0,amman,432.0,9.0,Valid
+ORD-0057,2026-07-04,mouse,7.0,19.0,zarqa,133.0,7.0,Valid
+ORD-0058,2026-01-28,monitor,5.0,210.0,zarqa,1050.0,1.0,Valid
+ORD-0059,2026-06-07,keyboard,3.0,48.0,amman,144.0,6.0,Valid
+ORD-0060,2026-01-27,laptop,8.0,720.0,zarqa,5760.0,1.0,Valid
+ORD-0061,2026-05-30,laptop,11.0,720.0,amman,7920.0,5.0,Valid
+ORD-0062,2026-03-02,mouse,2.0,19.0,amman,38.0,3.0,Valid
+ORD-0064,2026-05-22,headphones,5.0,65.0,irbid,325.0,5.0,Valid
+ORD-0065,2026-05-04,keyboard,1.0,48.0,zarqa,48.0,5.0,Valid
+ORD-0066,2026-07-15,usb cable,1.0,12.0,amman,12.0,7.0,Valid
+ORD-0067,2026-01-13,laptop,1.0,720.0,irbid,720.0,1.0,Valid
+ORD-0069,2026-09-04,laptop,5.0,720.0,irbid,3600.0,9.0,Valid
+ORD-0070,2026-03-08,keyboard,7.0,48.0,zarqa,336.0,3.0,Valid
+ORD-0071,2026-08-12,keyboard,8.0,48.0,irbid,384.0,8.0,Valid
+ORD-0072,2026-05-22,usb cable,12.0,12.0,amman,144.0,5.0,Valid
+ORD-0073,2026-06-11,laptop,7.0,720.0,irbid,5040.0,6.0,Valid
+ORD-0074,2026-05-24,mouse,9.0,19.0,irbid,171.0,5.0,Valid
+ORD-0075,2026-01-17,mouse,1.0,19.0,zarqa,19.0,1.0,Valid
+ORD-0077,2026-07-22,laptop,8.0,720.0,irbid,5760.0,7.0,Valid
+ORD-0078,2026-06-06,headphones,1.0,65.0,amman,65.0,6.0,Valid
+ORD-0079,2026-04-20,webcam,4.0,89.0,irbid,356.0,4.0,Valid
+ORD-0080,2026-01-19,laptop,7.0,720.0,amman,5040.0,1.0,Valid
+ORD-0081,2026-01-08,mouse,12.0,19.0,amman,228.0,1.0,Valid
+ORD-0082,2026-06-22,keyboard,9.0,48.0,zarqa,432.0,6.0,Valid
+ORD-0083,2026-03-03,headphones,7.0,65.0,amman,455.0,3.0,Valid
+ORD-0085,2026-05-29,mouse,2.0,19.0,irbid,38.0,5.0,Valid
+ORD-0086,2026-06-20,laptop,5.0,720.0,amman,3600.0,6.0,Valid
+ORD-0087,2026-01-02,headphones,11.0,65.0,amman,715.0,1.0,Valid
+ORD-0088,2026-07-08,usb cable,12.0,12.0,amman,144.0,7.0,Valid
+ORD-0091,2026-05-20,laptop,1.0,720.0,irbid,720.0,5.0,Valid
+ORD-0092,2026-07-19,webcam,2.0,89.0,irbid,178.0,7.0,Valid
+ORD-0093,2026-04-01,webcam,4.0,89.0,irbid,356.0,4.0,Valid
+ORD-0094,2026-01-06,mouse,8.0,19.0,irbid,152.0,1.0,Valid
+ORD-0096,2026-04-13,headphones,6.0,65.0,amman,390.0,4.0,Valid
+ORD-0097,2026-03-20,headphones,10.0,65.0,amman,650.0,3.0,Valid
+ORD-0098,2026-05-04,webcam,10.0,89.0,zarqa,890.0,5.0,Valid
+ORD-0099,2026-05-23,mouse,11.0,19.0,irbid,209.0,5.0,Valid
